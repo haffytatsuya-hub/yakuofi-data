@@ -1,22 +1,22 @@
 {
- "version": "2026-11-07.1",
+ "version": "2026-11-07.2",
  "schema": 1,
- "generated": "2026-11-05",
+ "generated": "2026-11-07",
  "files": {
   "drugs": {
-   "sha256": "f51d3aa3878fe114af157fd525c3e976b50ef9205a2e07637876066e524d8abd",
-   "size": 8710858
+   "sha256": "7534ffbed6b2ac078474284aae449bb95a23498115cbae672acbd872e97b1acb",
+   "size": 8710968
   },
   "supply": {
-   "sha256": "e7c9a31623bec1970b343f68c6aa9ef20ffda5c8e77e4ec88e2f9be9265b154e",
-   "size": 2167763
+   "sha256": "d84d526941e4975ed35eace61bdb5f409854bab4b8b70b29e5d02a5eafb8afdb",
+   "size": 2168323
   },
   "rmp": {
-   "sha256": "022c2c63753927384b290de4a5b87f0d90d9714cb9d26d2a7ed69e245f434230",
-   "size": 299361
+   "sha256": "c7f2f593f3d803d583d58fb33592af61a48f38aba07e0dfc32a04485f4151c20",
+   "size": 298537
   },
   "documents": {
-   "sha256": "59880315cb268067233b6020a1128d33a45b4827d45ae85638bb7d700934660d",
+   "sha256": "0ef7acb916d83f20f10419abe724c48e9c8b1dd415027d26ce273ba569037b02",
    "size": 1865114
   },
   "packages": {
