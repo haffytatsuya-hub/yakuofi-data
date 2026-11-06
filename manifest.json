@@ -1,0 +1,55 @@
+{
+ "version": "2026-11-07.1",
+ "schema": 1,
+ "generated": "2026-11-05",
+ "files": {
+  "drugs": {
+   "sha256": "f51d3aa3878fe114af157fd525c3e976b50ef9205a2e07637876066e524d8abd",
+   "size": 8710858
+  },
+  "supply": {
+   "sha256": "e7c9a31623bec1970b343f68c6aa9ef20ffda5c8e77e4ec88e2f9be9265b154e",
+   "size": 2167763
+  },
+  "rmp": {
+   "sha256": "022c2c63753927384b290de4a5b87f0d90d9714cb9d26d2a7ed69e245f434230",
+   "size": 299361
+  },
+  "documents": {
+   "sha256": "59880315cb268067233b6020a1128d33a45b4827d45ae85638bb7d700934660d",
+   "size": 1865114
+  },
+  "packages": {
+   "sha256": "89d70ff6269a49e069f011e3352f59bb48e538ee0f78dab3be078d8c5e77e3cb",
+   "size": 47481
+  },
+  "brands": {
+   "sha256": "bc3c4298efa31c44b477e49f9760ecda9ff1b94d97a5c831f5257cb1795fc14f",
+   "size": 407957
+  },
+  "doc_aliases": {
+   "sha256": "95401c2b8f58ab56bb780b2af707a0c1ac2744e329aa4725041bacd8e50a3c19",
+   "size": 626
+  },
+  "sentei": {
+   "sha256": "d603c4d5eb90ad68542c0478da34313f5bdb96a0d3350c1b8e3434c2c80cc996",
+   "size": 67689
+  },
+  "diseases": {
+   "sha256": "7d8216359cfc3fc5e8c4bc50bda3f1aef5bb7b3f6f8c08c5715b4b4d5e93de72",
+   "size": 21192
+  },
+  "mechanisms": {
+   "sha256": "4d83ae4721f730ee6f793d39628b432116779e367efce3366cba8905e04e1c2e",
+   "size": 32861
+  },
+  "readings": {
+   "sha256": "0c13a6f2d40ac4833a19cbcb7f7464c4f6153fb51b227789dd6bb6a89e06b676",
+   "size": 7451
+  },
+  "tsumura": {
+   "sha256": "e6bbc72370debcf3bd09cde9234de7b3f4095ea71a4196daa049be2ed0567727",
+   "size": 2610
+  }
+ }
+}
