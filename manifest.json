@@ -1,5 +1,5 @@
 {
- "version": "2026-11-07.2",
+ "version": "2026-11-07.3",
  "schema": 1,
  "generated": "2026-11-07",
  "files": {
@@ -50,6 +50,10 @@
   "tsumura": {
    "sha256": "e6bbc72370debcf3bd09cde9234de7b3f4095ea71a4196daa049be2ed0567727",
    "size": 2610
+  },
+  "discontinued": {
+   "sha256": "852aec93203120b41466e7771acaaf544d09f61964c0b9652a61a7875a0b5773",
+   "size": 5048
   }
  }
 }
