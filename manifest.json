@@ -1,11 +1,11 @@
 {
- "version": "2026-11-09.1",
+ "version": "2026-11-13.1",
  "schema": 1,
  "generated": "2026-11-09",
  "files": {
   "drugs": {
-   "sha256": "2c9cb2131ee1f8117f0b98666018aa3ad609747efee466957405fb6f8b5001f4",
-   "size": 8710968
+   "sha256": "a280cf1047a89f7fb54e455053fcbef1cf064d81b5ca06d2007f723b890eb120",
+   "size": 8711283
   },
   "supply": {
    "sha256": "69f9240e90459f599306ebfffbe2710655f814f4517caaf1ccc6244ed9e4ff13",
@@ -24,8 +24,8 @@
    "size": 47481
   },
   "brands": {
-   "sha256": "bc3c4298efa31c44b477e49f9760ecda9ff1b94d97a5c831f5257cb1795fc14f",
-   "size": 407957
+   "sha256": "2a3237434a981b67557373ec147801f7bc24c80923acc39e4bd837a63e064a67",
+   "size": 412422
   },
   "doc_aliases": {
    "sha256": "95401c2b8f58ab56bb780b2af707a0c1ac2744e329aa4725041bacd8e50a3c19",
@@ -52,8 +52,20 @@
    "size": 2610
   },
   "discontinued": {
-   "sha256": "852aec93203120b41466e7771acaaf544d09f61964c0b9652a61a7875a0b5773",
-   "size": 5048
+   "sha256": "d5588885c16131babeddedaaa9b80bb93ea80ebc4ce940972b29a6b1a8c4e067",
+   "size": 42966
+  },
+  "handling": {
+   "sha256": "c63071e7f1611cd6ae4dc1af4e068ea9d1ec5d0aa7625de2f8fcacb75742fd74",
+   "size": 999033
+  },
+  "news": {
+   "sha256": "f5a4f6cc22f69eab8c1b084e822d4aef40ea6874f9bd9bf1ba380f8ab5e429f4",
+   "size": 2412
+  },
+  "imprints": {
+   "sha256": "d8accc6f187aa1bf050340a7a880e9950d68b1d9854e0ce841c5d1f0ce1b22ff",
+   "size": 303419
   }
  }
 }
