@@ -1,5 +1,5 @@
 {
- "version": "2026-11-16.2",
+ "version": "2026-11-25.1",
  "schema": 1,
  "generated": "2026-11-16",
  "files": {
@@ -60,8 +60,8 @@
    "size": 999033
   },
   "news": {
-   "sha256": "f5a4f6cc22f69eab8c1b084e822d4aef40ea6874f9bd9bf1ba380f8ab5e429f4",
-   "size": 2412
+   "sha256": "a8c03abba2246967d52092d56942dcf9a8ffd6e327aa8d5946a264c7b7e8a4e0",
+   "size": 3038
   },
   "imprints": {
    "sha256": "d8accc6f187aa1bf050340a7a880e9950d68b1d9854e0ce841c5d1f0ce1b22ff",
